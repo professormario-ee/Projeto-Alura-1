@@ -1,10 +1,10 @@
 h1{
-    color:rgb(0, 110, 255);
+    color:rgb(0, 11, 26);
     font-family: cursive;
 }
 
 h2{
-    color:rgb(0, 110, 255);
+    color:rgb(0, 45, 104);
 }
 
 body { 
@@ -13,3 +13,19 @@ body {
     font-family: Roboto;
     text-align: center;
 }
+
+header{ 
+    border-bottom: 5px dashed grey; 
+}
+
+footer {
+    border-top: 5px dashed grey; 
+}
+
+#nome-usuário { 
+   font-weight: bold; 
+}
+
+.texto-inglês{ 
+   font-style: italic;
+ }
