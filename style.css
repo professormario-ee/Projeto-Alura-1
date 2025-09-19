@@ -1,4 +1,8 @@
 h2{
-    color:orange;
+    color:rgb(0, 110, 255);
 }
 
+body { 
+    background-color: #e6b97e;
+    color: white;
+}
