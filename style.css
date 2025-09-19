@@ -1,8 +1,15 @@
+h1{
+    color:rgb(0, 110, 255);
+    font-family: cursive;
+}
+
 h2{
     color:rgb(0, 110, 255);
 }
 
 body { 
-    background-color: #e6b97e;
+    background-color: #ca7607;
     color: white;
+    font-family: Roboto;
+    text-align: center;
 }
