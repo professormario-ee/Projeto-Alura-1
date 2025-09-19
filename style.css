@@ -15,11 +15,11 @@ body {
 }
 
 header{ 
-    border-bottom: 5px dashed grey; 
+    border-bottom: 5px dashed rgb(0, 0, 0); 
 }
 
 footer {
-    border-top: 5px dashed grey; 
+    border-top: 5px dashed rgb(0, 0, 0); 
 }
 
 #nome-usuário { 
