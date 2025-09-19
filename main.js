@@ -1,5 +1,5 @@
 let nomeUsuário = "";
-let elemento = document.querySelector("#nome-usuário");
+let elemento = document.querySelector("#nome-usuario");
 
 while (nomeUsuário == ""){
     nomeUsuário = prompt("Qual o seu nome?");
